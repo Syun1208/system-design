@@ -1,0 +1,7 @@
+fastapi
+fastapi-cache2[redis]
+uvicorn[standard]
+redis
+celery[redis]
+fastapi_cache
+psutil
